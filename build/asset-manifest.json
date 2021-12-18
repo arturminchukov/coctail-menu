@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.9db49d7c.css",
-    "main.js": "/static/js/main.8cda7789.js",
-    "static/js/787.7e897ec7.chunk.js": "/static/js/787.7e897ec7.chunk.js",
-    "static/media/pina-colada.png": "/static/media/pina-colada.b1932a2b6515e5fe84c1.png",
-    "index.html": "/index.html",
-    "main.9db49d7c.css.map": "/static/css/main.9db49d7c.css.map",
-    "main.8cda7789.js.map": "/static/js/main.8cda7789.js.map",
-    "787.7e897ec7.chunk.js.map": "/static/js/787.7e897ec7.chunk.js.map"
+    "main.css": "/coctail-menu/build/static/css/main.9db49d7c.css",
+    "main.js": "/coctail-menu/build/static/js/main.369725da.js",
+    "static/js/787.7e897ec7.chunk.js": "/coctail-menu/build/static/js/787.7e897ec7.chunk.js",
+    "static/media/pina-colada.png": "/coctail-menu/build/static/media/pina-colada.b1932a2b6515e5fe84c1.png",
+    "index.html": "/coctail-menu/build/index.html",
+    "main.9db49d7c.css.map": "/coctail-menu/build/static/css/main.9db49d7c.css.map",
+    "main.369725da.js.map": "/coctail-menu/build/static/js/main.369725da.js.map",
+    "787.7e897ec7.chunk.js.map": "/coctail-menu/build/static/js/787.7e897ec7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9db49d7c.css",
-    "static/js/main.8cda7789.js"
+    "static/js/main.369725da.js"
   ]
 }
