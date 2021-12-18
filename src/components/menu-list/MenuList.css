@@ -1,0 +1,10 @@
+.MenuList__container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 30px;
+}
+
+.MenuList__title {
+    color: #d0c7c7;
+}

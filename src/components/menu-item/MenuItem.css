@@ -1,0 +1,39 @@
+.MenuItem__container {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+}
+
+.MenuItem__description {
+    width: 50%;
+    order: 2;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 20px;
+}
+
+.MenuItem__name{
+    margin: 0;
+    color: #a0b2b2;
+}
+
+.MenuItem__structure{
+    font-size: 14px;
+}
+
+.MenuItem__extra-info{
+    font-size: 10px;
+    margin-top: 20px;
+}
+
+.MenuItem__img {
+    width: 50%;
+}
+
+.MenuItem__img_left {
+    order: 1;
+}
+
+.MenuItem__img_right {
+    order: 3;
+}
