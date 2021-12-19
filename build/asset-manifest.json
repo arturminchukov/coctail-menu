@@ -1,16 +1,24 @@
 {
   "files": {
-    "main.css": "/coctail-menu/build/static/css/main.9db49d7c.css",
-    "main.js": "/coctail-menu/build/static/js/main.369725da.js",
+    "main.css": "/coctail-menu/build/static/css/main.1a4a7cfd.css",
+    "main.js": "/coctail-menu/build/static/js/main.4540f80d.js",
     "static/js/787.7e897ec7.chunk.js": "/coctail-menu/build/static/js/787.7e897ec7.chunk.js",
     "static/media/pina-colada.png": "/coctail-menu/build/static/media/pina-colada.b1932a2b6515e5fe84c1.png",
+    "static/media/mohito.png": "/coctail-menu/build/static/media/mohito.7ec31b68c18b15f52e75.png",
+    "static/media/i-removebg-preview.png": "/coctail-menu/build/static/media/i-removebg-preview.5f48e7566b027d979edd.png",
+    "static/media/-removebg-preview.png": "/coctail-menu/build/static/media/0954cd9b929e95675fc89ff22f4097c4-removebg-preview.c1944fcc53e6c4f911d7.png",
+    "static/media/1455899697-removebg-preview.png": "/coctail-menu/build/static/media/1455899697-removebg-preview.57587bbd597ad90b119b.png",
+    "static/media/ocr-removebg-preview.png": "/coctail-menu/build/static/media/ocr-removebg-preview.7957dbb12280797405b4.png",
+    "static/media/gin-tonic-removebg-preview.png": "/coctail-menu/build/static/media/gin-tonic-removebg-preview.d193cd97bf810d7406e8.png",
+    "static/media/otvertka.png": "/coctail-menu/build/static/media/otvertka.aa1bac1fe7da297e3514.png",
+    "static/media/Daiquiri-Cocktail-Wallpaper-For-IPhone-removebg-preview.png": "/coctail-menu/build/static/media/Daiquiri-Cocktail-Wallpaper-For-IPhone-removebg-preview.eaad5a2d901d2fbb2046.png",
     "index.html": "/coctail-menu/build/index.html",
-    "main.9db49d7c.css.map": "/coctail-menu/build/static/css/main.9db49d7c.css.map",
-    "main.369725da.js.map": "/coctail-menu/build/static/js/main.369725da.js.map",
+    "main.1a4a7cfd.css.map": "/coctail-menu/build/static/css/main.1a4a7cfd.css.map",
+    "main.4540f80d.js.map": "/coctail-menu/build/static/js/main.4540f80d.js.map",
     "787.7e897ec7.chunk.js.map": "/coctail-menu/build/static/js/787.7e897ec7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9db49d7c.css",
-    "static/js/main.369725da.js"
+    "static/css/main.1a4a7cfd.css",
+    "static/js/main.4540f80d.js"
   ]
 }
