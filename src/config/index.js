@@ -10,6 +10,10 @@ import blueLaguna from '../assets/coctails/00b23aee3cfd68cb183644e0fc67544f-remo
 
 import karolJanRuby from '../assets/beers/ocr-removebg-preview.png';
 import alivariaBarhatnoe from '../assets/beers/i-removebg-preview.png';
+import crusoviceCerne from '../assets/beers/dda1361aaabc889ea299d3311bd9f5aa-removebg-preview.png';
+
+import treeOfLifeRuby from '../assets/vine/i-removebg-preview.png';
+import allazaniValley from '../assets/vine/37185_0-removebg-preview.png';
 
 export const MENU = [
     {
@@ -65,18 +69,39 @@ export const MENU = [
         ]
     },
     {
-        title: 'Beers',
+        title: 'Beer',
         items: [
             {
                 name: 'Karol Jan Ruby',
                 structure: [],
                 img: karolJanRuby,
-                extraInfo: ''
+                extraInfo: 'Вишневое'
             },{
                 name: 'Лидское бархатное',
                 structure: [],
                 img: alivariaBarhatnoe,
-                extraInfo: ''
+                extraInfo: 'Темное'
+            },{
+                name: 'Crusovice',
+                structure: [],
+                img: crusoviceCerne,
+                extraInfo: 'Темное'
+            },
+        ]
+    },
+    {
+        title: 'Vine',
+        items: [
+            {
+                name: 'Tree of life',
+                structure: [],
+                img: treeOfLifeRuby,
+                extraInfo: 'Красное полусладкое'
+            },{
+                name: 'Alazani Valley',
+                structure: [],
+                img: allazaniValley,
+                extraInfo: 'Красное полусладкое'
             },
         ]
     },
