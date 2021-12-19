@@ -1,15 +1,15 @@
 .MenuItem__container {
     display: flex;
     flex-direction: row;
-    align-items: flex-start;
+    align-items: center;
+    margin-top: 10px;
 }
 
 .MenuItem__description {
     width: 50%;
     order: 2;
-    padding-left: 10px;
-    padding-right: 10px;
-    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
 .MenuItem__name{
