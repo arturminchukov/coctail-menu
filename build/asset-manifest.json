@@ -1,25 +1,30 @@
 {
   "files": {
-    "main.css": "/coctail-menu/build/static/css/main.3a88fd5b.css",
-    "main.js": "/coctail-menu/build/static/js/main.d1d7dfcf.js",
+    "main.css": "/coctail-menu/build/static/css/main.d57f3695.css",
+    "main.js": "/coctail-menu/build/static/js/main.bd4f26b8.js",
     "static/js/787.7e897ec7.chunk.js": "/coctail-menu/build/static/js/787.7e897ec7.chunk.js",
     "static/media/pina-colada.png": "/coctail-menu/build/static/media/pina-colada.b1932a2b6515e5fe84c1.png",
+    "static/media/14981567189460-removebg-preview.png": "/coctail-menu/build/static/media/14981567189460-removebg-preview.c604dc05178be5d47860.png",
     "static/media/mohito.png": "/coctail-menu/build/static/media/mohito.7ec31b68c18b15f52e75.png",
     "static/media/i-removebg-preview.png": "/coctail-menu/build/static/media/i-removebg-preview.d12f810b6f2f3f6d1d20.png",
     "static/media/-removebg-preview.png": "/coctail-menu/build/static/media/dda1361aaabc889ea299d3311bd9f5aa-removebg-preview.16bd3e6d8fd306a818da.png",
+    "static/media/wheat_beer_can-500x500-removebg-preview.png": "/coctail-menu/build/static/media/wheat_beer_can-500x500-removebg-preview.168907230d36b86fdc84.png",
     "static/media/1455899697-removebg-preview.png": "/coctail-menu/build/static/media/1455899697-removebg-preview.57587bbd597ad90b119b.png",
     "static/media/ocr-removebg-preview.png": "/coctail-menu/build/static/media/ocr-removebg-preview.7957dbb12280797405b4.png",
+    "static/media/_-removebg-preview.png": "/coctail-menu/build/static/media/f8c3d8b6743011eaa7ae54a05054786b_32d18fc78b9411eaa7af54a05054786b-removebg-preview.1d88ce90eacae4e6fc80.png",
     "static/media/gin-tonic-removebg-preview.png": "/coctail-menu/build/static/media/gin-tonic-removebg-preview.d193cd97bf810d7406e8.png",
     "static/media/otvertka.png": "/coctail-menu/build/static/media/otvertka.aa1bac1fe7da297e3514.png",
+    "static/media/Guinness-Beer-WhatsApp-4915213365384--removebg-preview.png": "/coctail-menu/build/static/media/Guinness-Beer-WhatsApp-4915213365384--removebg-preview.b08d31ef5447487dddba.png",
     "static/media/37185_0-removebg-preview.png": "/coctail-menu/build/static/media/37185_0-removebg-preview.e5f6fd3127aab3da8a25.png",
+    "static/media/-1-e1609673507812-800x796-removebg-preview.png": "/coctail-menu/build/static/media/4729f9572a1b3b98845061e498f422c7-1-e1609673507812-800x796-removebg-preview.48940626a1ca7ed219e5.png",
     "static/media/Daiquiri-Cocktail-Wallpaper-For-IPhone-removebg-preview.png": "/coctail-menu/build/static/media/Daiquiri-Cocktail-Wallpaper-For-IPhone-removebg-preview.eaad5a2d901d2fbb2046.png",
     "index.html": "/coctail-menu/build/index.html",
-    "main.3a88fd5b.css.map": "/coctail-menu/build/static/css/main.3a88fd5b.css.map",
-    "main.d1d7dfcf.js.map": "/coctail-menu/build/static/js/main.d1d7dfcf.js.map",
+    "main.d57f3695.css.map": "/coctail-menu/build/static/css/main.d57f3695.css.map",
+    "main.bd4f26b8.js.map": "/coctail-menu/build/static/js/main.bd4f26b8.js.map",
     "787.7e897ec7.chunk.js.map": "/coctail-menu/build/static/js/787.7e897ec7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3a88fd5b.css",
-    "static/js/main.d1d7dfcf.js"
+    "static/css/main.d57f3695.css",
+    "static/js/main.bd4f26b8.js"
   ]
 }

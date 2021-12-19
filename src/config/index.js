@@ -11,6 +11,11 @@ import blueLaguna from '../assets/coctails/00b23aee3cfd68cb183644e0fc67544f-remo
 import karolJanRuby from '../assets/beers/ocr-removebg-preview.png';
 import alivariaBarhatnoe from '../assets/beers/i-removebg-preview.png';
 import crusoviceCerne from '../assets/beers/dda1361aaabc889ea299d3311bd9f5aa-removebg-preview.png';
+import alivariaPorter from '../assets/beers/f8c3d8b6743011eaa7ae54a05054786b_32d18fc78b9411eaa7af54a05054786b-removebg-preview.png';
+import guiness from '../assets/beers/Guinness-Beer-WhatsApp-4915213365384--removebg-preview.png';
+import masterCollection from '../assets/beers/wheat_beer_can-500x500-removebg-preview.png';
+import vambergCerne from '../assets/beers/4729f9572a1b3b98845061e498f422c7-1-e1609673507812-800x796-removebg-preview.png';
+import keltskiDedictiv from '../assets/beers/14981567189460-removebg-preview.png';
 
 import treeOfLifeRuby from '../assets/vine/i-removebg-preview.png';
 import allazaniValley from '../assets/vine/37185_0-removebg-preview.png';
@@ -86,6 +91,31 @@ export const MENU = [
                 structure: [],
                 img: crusoviceCerne,
                 extraInfo: 'Темное'
+            },{
+                name: 'Аливария портер',
+                structure: [],
+                img: alivariaPorter,
+                extraInfo: 'Темное'
+            },{
+                name: 'Vamberg',
+                structure: [],
+                img: vambergCerne,
+                extraInfo: 'Темное'
+            },{
+                name: 'Keltski dedictvi',
+                structure: [],
+                img: keltskiDedictiv,
+                extraInfo: 'Темное'
+            },{
+                name: 'Guinness',
+                structure: [],
+                img: guiness,
+                extraInfo: 'Темное'
+            },{
+                name: 'Калекцыя Майстра',
+                structure: [],
+                img: masterCollection,
+                extraInfo: 'Светлое пшеничное'
             },
         ]
     },

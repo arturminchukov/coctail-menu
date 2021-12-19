@@ -27,9 +27,7 @@
 }
 
 .MenuItem__img {
-    width: 50%;
-    max-height: 300px;
-    min-height: 200px;
+    height: 200px;
 }
 
 .MenuItem__img_left {
